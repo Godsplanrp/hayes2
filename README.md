@@ -373,6 +373,18 @@ function resetCalculator() {
 </div>
 
 <div>
+  <input type="checkbox" id="MysteryGift" value="25000" >
+  <label for="MysteryBox">Harness - $25000</label>
+  <input type="number" value="1" min="1">
+</div>
+
+<div>
+  <input type="checkbox" id="MysteryGift" value="15000" >
+  <label for="MysteryBox">Nos - $15000</label>
+  <input type="number" value="1" min="1">
+</div>
+
+<div>
   <input type="checkbox" id="MysteryGift" value="1000" >
   <label for="MysteryBox">Car Polish(1-2 days) - $1000</label>
   <input type="number" value="1" min="1">
